@@ -17,8 +17,8 @@ Pierwsza mutacja (increseCounter)
 
 ### Zadanie 4
 Mutacja ze złożonymi danymi przechowywanymi na serwerze (addTweet)
-Query do pobierania listy danych z serwera (getTweets)  
-Quwery do pobierania pojedynczych danych z serwera (getTweet)  
+Query do pobierania listy danych z serwera (getTweetByTexts)  
+Quwery do pobierania pojedynczych danych z serwera (getTweetByText)  
 
 ### Zadanie 5 
 Podłączenie bazy danych 
@@ -48,4 +48,4 @@ Komentarze powinny być powiązane z użytkownikami.
 Nie zapomnij dopisać resolverów do istenijących już modeli.
 
 ### Zadanie 9 
-Dodaj paginację do query 'getTweets' (https://www.postgresql.org/docs/9.3/queries-limit.html)
+Dodaj paginację do query 'getTweetByTexts' (https://www.postgresql.org/docs/9.3/queries-limit.html)
